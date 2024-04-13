@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c75ae1d24fa38f40b2c125a6f25036d
+timeCreated: 1467838560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Platforms/Platform_Ramp_45.prefab
+  uploadId: 125978

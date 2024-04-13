@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00cf6e2af87cdb044bd1181bd5d3dda0
+timeCreated: 1467835605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Lights&Shadows/Shadow_Bottom_Corner.prefab
+  uploadId: 125978

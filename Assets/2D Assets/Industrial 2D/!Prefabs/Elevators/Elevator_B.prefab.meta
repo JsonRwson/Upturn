@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fe0264b22ab08f468ddb64a5cdfe231
+timeCreated: 1467835438
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Elevators/Elevator_B.prefab
+  uploadId: 125978

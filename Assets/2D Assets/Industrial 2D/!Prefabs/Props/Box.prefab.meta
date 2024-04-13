@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb0075b3bd589ee43b98ff859cd4273b
+timeCreated: 1467838691
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Props/Box.prefab
+  uploadId: 125978

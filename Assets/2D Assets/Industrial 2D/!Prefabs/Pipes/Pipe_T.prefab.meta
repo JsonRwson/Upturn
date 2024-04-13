@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e43c9a202c3083b4a9cf22ee63c7af3d
+timeCreated: 1467836063
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_T.prefab
+  uploadId: 125978

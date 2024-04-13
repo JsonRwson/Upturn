@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5abb67cbfe4444d40b44a08a4b8bdef5
+timeCreated: 1467838833
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Props/Console_2.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f06a66a5267bdca4e9a6f56848b36a1e
+timeCreated: 1467835958
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Vent.prefab
+  uploadId: 125978

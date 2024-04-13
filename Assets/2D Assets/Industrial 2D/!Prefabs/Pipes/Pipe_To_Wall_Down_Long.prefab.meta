@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1ceb1a69b144f340ad133253f7258c8
+timeCreated: 1467836068
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_To_Wall_Down_Long.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8174319a2b8595d4f902c7c27453079b
+timeCreated: 1467835851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Back_Lit_3_UnLit.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5637774469c47a6479cfae6ca8d500ae
+timeCreated: 1467835673
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_1.prefab
+  uploadId: 125978

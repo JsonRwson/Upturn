@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db63563dc2662ed439b493e824d2590f
+timeCreated: 1467838305
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Platforms/Platform_6.prefab
+  uploadId: 125978

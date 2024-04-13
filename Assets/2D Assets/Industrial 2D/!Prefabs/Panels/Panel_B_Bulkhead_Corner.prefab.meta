@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9b242e75df224549b6c940319d00dd2
+timeCreated: 1467835778
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_B_Bulkhead_Corner.prefab
+  uploadId: 125978

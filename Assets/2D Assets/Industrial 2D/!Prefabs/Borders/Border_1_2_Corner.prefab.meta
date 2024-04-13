@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88e9296e8c56abf4a886eec88cd1c18a
+timeCreated: 1467834713
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Borders/Border_1_2_Corner.prefab
+  uploadId: 125978

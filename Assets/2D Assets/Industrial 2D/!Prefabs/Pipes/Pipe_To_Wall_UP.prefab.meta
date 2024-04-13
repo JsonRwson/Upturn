@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bada0db3f996ca4bb7e8b906d89f0b6
+timeCreated: 1467836070
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_To_Wall_UP.prefab
+  uploadId: 125978

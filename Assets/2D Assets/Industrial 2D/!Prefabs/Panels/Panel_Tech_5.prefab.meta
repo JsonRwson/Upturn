@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41f44bef8c8af2e4d934935bdfd8690d
+timeCreated: 1467835925
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Tech_5.prefab
+  uploadId: 125978

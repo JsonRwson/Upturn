@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dc86baefbb69e5479a5357958c014cf
+timeCreated: 1467835956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Tech_10_Square.prefab
+  uploadId: 125978

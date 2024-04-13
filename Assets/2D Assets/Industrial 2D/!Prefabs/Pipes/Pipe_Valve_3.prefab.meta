@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb76719cf953eec40b720c12aa08e0ba
+timeCreated: 1467836077
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_Valve_3.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 798a793447f2ee349a439f7c5fbfa8fb
+timeCreated: 1467835856
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Back_Lit_4.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbaeda09ded58c541a0962e93352cc35
+timeCreated: 1467835610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Lights&Shadows/Shadow_Top_Corner.prefab
+  uploadId: 125978

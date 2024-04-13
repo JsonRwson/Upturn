@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f61362654044a804aa70ddf9bc9fccad
+timeCreated: 1467835609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Lights&Shadows/Shadow_Top.prefab
+  uploadId: 125978

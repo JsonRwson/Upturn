@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b19767d0b75172648a4747bb65bfa878
+timeCreated: 1467839710
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Platforms/Platform_Ramp_Fliped.prefab
+  uploadId: 125978

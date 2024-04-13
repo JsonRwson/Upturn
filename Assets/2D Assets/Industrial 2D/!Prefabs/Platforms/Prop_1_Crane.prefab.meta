@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81751e162b95a0244bea21c05d2aaff3
+timeCreated: 1467838598
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Platforms/Prop_1_Crane.prefab
+  uploadId: 125978

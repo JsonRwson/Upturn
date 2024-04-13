@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33ea3337a27080a49a59daf672439a42
+timeCreated: 1467836061
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_Small_Straight_2.prefab
+  uploadId: 125978

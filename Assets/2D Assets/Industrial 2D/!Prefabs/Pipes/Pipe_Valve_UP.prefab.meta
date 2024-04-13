@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3badee56899b824dab391ef7d4f640b
+timeCreated: 1467836081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_Valve_UP.prefab
+  uploadId: 125978

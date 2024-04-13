@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29848bd1b647a914eb95bd4e242e6c74
+timeCreated: 1467835099
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Doors/Doorway_Front_Small.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83124d7798d06a64ea05934056557725
+timeCreated: 1466637900
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/Materials/Front.mat
+  uploadId: 125978

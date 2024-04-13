@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b4af7c6d67aed848a044551fc965581
+timeCreated: 1467835604
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Lights&Shadows/Shadow_Bottom.prefab
+  uploadId: 125978

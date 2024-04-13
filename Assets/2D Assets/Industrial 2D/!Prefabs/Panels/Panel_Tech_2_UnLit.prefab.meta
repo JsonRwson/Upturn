@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee23c3d2a61d6c949af1c3a32399693b
+timeCreated: 1467835921
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Tech_2_UnLit.prefab
+  uploadId: 125978

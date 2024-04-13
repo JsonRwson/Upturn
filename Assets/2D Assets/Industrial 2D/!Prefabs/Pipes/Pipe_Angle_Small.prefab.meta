@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 696c60fc39d306140814614de0e7eb7c
+timeCreated: 1467836050
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_Angle_Small.prefab
+  uploadId: 125978

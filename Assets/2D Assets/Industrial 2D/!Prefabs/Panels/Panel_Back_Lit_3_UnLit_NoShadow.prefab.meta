@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 991bceaebd01e374ea559d0b08f4bc04
+timeCreated: 1467835853
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Panels/Panel_Back_Lit_3_UnLit_NoShadow.prefab
+  uploadId: 125978

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48e7989ec480b8f4d8c3100194effcb9
+timeCreated: 1467836051
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Pipes/Pipe_Bend_1.prefab
+  uploadId: 125978

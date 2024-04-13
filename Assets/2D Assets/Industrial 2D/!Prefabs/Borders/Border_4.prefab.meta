@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e69374f2eb7ca6e46a7d9436e4c64dff
+timeCreated: 1467834989
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Borders/Border_4.prefab
+  uploadId: 125978

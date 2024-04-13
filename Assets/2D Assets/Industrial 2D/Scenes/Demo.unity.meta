@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83e79618070b5404886ce75d92cc12bb
+timeCreated: 1467833985
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/Scenes/Demo.unity
+  uploadId: 125978

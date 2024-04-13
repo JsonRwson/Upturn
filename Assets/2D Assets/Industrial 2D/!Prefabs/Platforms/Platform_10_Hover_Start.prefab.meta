@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb233a3cd4c34144d834bf11f1ec37dc
+timeCreated: 1467838414
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66650
+  packageName: 2D Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D_Pack/!Prefabs/Platforms/Platform_10_Hover_Start.prefab
+  uploadId: 125978

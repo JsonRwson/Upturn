@@ -23,4 +23,10 @@ public class MainMenu : MonoBehaviour
     {
         gameObject.SetActive(false);
     }
+
+    // Close the game when clicking quit
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }

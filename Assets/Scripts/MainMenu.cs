@@ -5,16 +5,16 @@ using UnityEngine;
 // Controls the UI for the main menu
 public class MainMenu : MonoBehaviour
 {
+    public GameObject StartPanel;
+    public GameObject OptionsPanel;
+    private Animator OptionsAnimator;
+
     // Start is called before the first frame update
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        OptionsAnimator = OptionsPanel.GetComponent<Animator>();
+        OptionsAnimator.SetInteger("InOptions", 0);
+        OptionsPanel.SetActive(false);
     }
 
     // Pressing starts takes the player into endless
@@ -28,5 +28,17 @@ public class MainMenu : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void ShowOptions()
+    {
+        StartPanel.SetActive(false);
+        OptionsPanel.SetActive(true);
+        OptionsAnimator.SetInteger("InOptions", 1);
+    }
+
+    public void ReturnMenuAnimtation()
+    {
+        OptionsAnimator.SetInteger("InOptions", 2);
     }
 }

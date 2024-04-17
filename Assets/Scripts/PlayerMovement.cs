@@ -71,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             // If the game is in menu mode, move the player at the start speed
-            controller.Move(startSpeed, false, false);
+            controller.Move(0.5f, false, false);
             animator.SetFloat("Speed", 1);
         }
     }

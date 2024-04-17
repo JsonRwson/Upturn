@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Attatched to the main camera
-// Forces the camera to follow the player horizontally only
-public class CameraFollow : MonoBehaviour
+// Forces the object to follow the player horizontally only
+public class FollowPlayerHoirzontally : MonoBehaviour
 {
     // Store an offset and reference to the player game object
     public GameObject player;
@@ -25,7 +24,7 @@ public class CameraFollow : MonoBehaviour
         var position = transform.position;
         // Match this position to the player's plus the offset
         position.x = player.transform.position.x + xOffset;
-        // Apply this position to the camera
+        // Apply this position to the object
         transform.position = position;
     }
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 277f397ee1bdd894ebc559481a8a1f61
+guid: 527417f6a68764d4a9209f9dae124a6f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3490183709258409580
-    second: UIPanel_0
+      213: -9087577266532155448
+    second: smoke_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UIPanel_0
+      name: smoke_0
       rect:
         serializedVersion: 2
-        x: 54
-        y: 4
-        width: 700
-        height: 557
+        x: 191
+        y: 255
+        width: 578
+        height: 514
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4991cc08860609fc0800000000000000
-      internalID: -3490183709258409580
+      spriteID: 8cf7f67cf9072e180800000000000000
+      internalID: -9087577266532155448
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      UIPanel_0: -3490183709258409580
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

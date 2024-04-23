@@ -13,23 +13,31 @@ public class PlayerMovement : MonoBehaviour
     public CharacterController2D controller;
     // Reference the animator  to change the player animation states
     public Animator animator;
+
     private Vector2 pointerPosition;
+    private Vector2 startPosition;
+    private GhostTrail ghost;
 
     private float playerSpeed;
     // Can be modified from within the editor
     public float maxSpeed = 1.5f;
     public float startSpeed = 0.3f;
     public float timeToMaxSpeed = 100;
+    public float speedInMenu = 0.5f;
+    public float gravityScaleLower = 3f;
+    public float gravityScaleUpper = 8f;
 
+    private float currentGravityScale;
     private float startTime;
     private bool isInMenu = true;
-    private Vector2 startPosition;
+
 
     // Start is called before the first frame update
     void Start()
     {
         playerSpeed = startSpeed;
         startPosition = transform.position;
+        ghost = GetComponent<GhostTrail>();
     }
 
     // Update is called once per frame
@@ -45,6 +53,15 @@ public class PlayerMovement : MonoBehaviour
             // Use a sigmoid function to calculate the player's speed
             // A start speed is set, which increases overtime to level at the max speed
             playerSpeed = (maxSpeed - startSpeed) / (1 + Mathf.Exp(-elapsedTime / timeToMaxSpeed + 5)) + startSpeed;
+            
+            float speedRatio = (playerSpeed - startSpeed) / (maxSpeed - startSpeed);
+            controller.gravityScale = gravityScaleLower + speedRatio * (gravityScaleUpper - gravityScaleLower);
+            
+            // Calculate the new gravity scale
+            float newGravityScale = playerSpeed * controller.gravityScale + 3;
+
+            // Clamp the new gravity scale to be within the range [3, 8]
+            controller.gravityScale = Mathf.Clamp(newGravityScale, gravityScaleLower, gravityScaleUpper);
 
             // Constantly move the player forward at the current speed
             controller.Move(playerSpeed, false, false);
@@ -63,6 +80,7 @@ public class PlayerMovement : MonoBehaviour
                 {
                     // Switch the gravity using the controller
                     // Update the animation parameter to play the jump animation
+                    ghost.generateGhosts = true;
                     animator.SetBool("IsJumping", true);
                     controller.SwitchGravity();
                 }
@@ -92,6 +110,7 @@ public class PlayerMovement : MonoBehaviour
     public void OnLanding()
     {
         animator.SetBool("IsJumping", false);
+        ghost.generateGhosts = false;
     }
 
 }

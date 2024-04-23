@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Controlls the animations for the options menu
-public class OptionsAnimations : MonoBehaviour
+public class LevelsAnimations : MonoBehaviour
 {
     public GameObject mainMenu;
     private Animator animator;
@@ -11,17 +10,17 @@ public class OptionsAnimations : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Get the animator for the options menu
+        // Get the animator for the levels menu
         animator = GetComponent<Animator>();
     }
 
     // This is called when the slide out animation is finished
-    // Set the options menu to inactive
+    // Set the levels menu to inactive
     // Update the animation state
-    void SetOptionsInactive()
+    void SetLevelsInactive()
     {
         gameObject.SetActive(false);
-        animator.SetInteger("InOptions", 0);
+        animator.SetInteger("InLevels", 0);
     }
 
     // This is called halfway through the slide out animation

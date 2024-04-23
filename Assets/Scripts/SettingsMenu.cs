@@ -5,9 +5,11 @@ using UnityEngine.Audio;
 
 public class SettingsMenu : MonoBehaviour
 {
-    public AudioMixer AudioMixer;
+    public AudioMixer audioMixer;
+
+    // Volume slider, updates master volume audio mixer
     public void SetVolume(float volume)
     {
-        AudioMixer.SetFloat("MasterVolume", volume);
+        audioMixer.SetFloat("MasterVolume", volume);
     }
 }

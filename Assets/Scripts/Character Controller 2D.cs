@@ -11,6 +11,7 @@ public class CharacterController2D : MonoBehaviour
 	[SerializeField] private Transform m_GroundCheck;							// A position marking where to check if the player is grounded.
 	[SerializeField] private Transform m_CeilingCheck;							// A position marking where to check for ceilings
 	[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
+	public float gravityScale;
 
 	const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
 	private bool m_Grounded;            // Whether or not the player is grounded.
@@ -148,9 +149,9 @@ public class CharacterController2D : MonoBehaviour
 		// If the gravity should be fliped, set the gravity scale to negative
 		// Otherwise, set it to a positive valye
 		if(isGravityFLipped)
-		{m_Rigidbody2D.gravityScale = -3;}
+		{m_Rigidbody2D.gravityScale = gravityScale*-1;}
 		else
-		{m_Rigidbody2D.gravityScale = 3;}
+		{m_Rigidbody2D.gravityScale = gravityScale;}
 
 		// Vertically flip the player, including colliders and child objects
 		Vector3 newScale = transform.localScale;

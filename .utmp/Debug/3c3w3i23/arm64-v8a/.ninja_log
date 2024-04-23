@@ -1,11 +1,19 @@
 # ninja log v5
 83	699	7348597987501407	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b394962b0caa1094
+3	1562	7351957952341055	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	80c91a3cc25e375d
 701	1695	7348597993454922	E:/Unity Projects/Gravity-Guy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3c3w3i23/obj/arm64-v8a/libswappywrapper.so	eb3851ace6cc534f
-44	2037	7348597999256787	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	67788f840498aef
-58	2039	7348597999965930	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ac62b6c724d1f815
-67	2043	7348597999875548	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eb30b7fd17ec4bf9
-1	2044	7348598001158704	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	635dc38d7b361fb6
-13	2046	7348598001269767	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d0ce212418d23ff4
-31	2157	7348598003130033	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87ff8189c9c58922
-21	2181	7348598003260293	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	80c91a3cc25e375d
-2181	2424	7348598005187611	E:/Unity Projects/Gravity-Guy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3c3w3i23/obj/arm64-v8a/libgame.so	ab583e12225258eb
+100	1312	7351957950105306	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ac62b6c724d1f815
+63	1358	7351957950568499	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d0ce212418d23ff4
+110	1287	7351957949747923	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	67788f840498aef
+73	1321	7351957950200900	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eb30b7fd17ec4bf9
+11	1367	7351957950623688	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	635dc38d7b361fb6
+54	1445	7351957951439279	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87ff8189c9c58922
+1563	1895	7351957954123850	E:/Unity Projects/Gravity-Guy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3c3w3i23/obj/arm64-v8a/libgame.so	ab583e12225258eb
+32	2384	7351962720648245	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	67788f840498aef
+11	2424	7351962720648245	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	635dc38d7b361fb6
+39	2425	7351962721703978	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ac62b6c724d1f815
+26	2472	7351962732127921	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d0ce212418d23ff4
+50	2472	7351962732112805	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eb30b7fd17ec4bf9
+4	2649	7351962732658984	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	80c91a3cc25e375d
+16	2650	7351962732638898	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87ff8189c9c58922
+2650	2790	7351962735730738	E:/Unity Projects/Gravity-Guy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3c3w3i23/obj/arm64-v8a/libgame.so	ab583e12225258eb

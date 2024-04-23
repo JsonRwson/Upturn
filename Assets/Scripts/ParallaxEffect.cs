@@ -28,13 +28,13 @@ public class ParallaxEffect : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        Vector3 Position = MainCamera.transform.position;
+        Vector3 position = MainCamera.transform.position;
         // Determine the distance which the layer mustbe moved according to the camera
-        float Temp = Position.x * (1 - AmountOfParallax);
-        float Distance = Position.x * AmountOfParallax;
+        float Temp = position.x * (1 - AmountOfParallax);
+        float distance = position.x * AmountOfParallax;
 
         // Move the layer according to the parallax effect and camera position
-        Vector3 NewPosition = new Vector3(startingPos + Distance, transform.position.y, transform.position.z);
+        Vector3 NewPosition = new Vector3(startingPos + distance, transform.position.y, transform.position.z);
         transform.position = NewPosition;
 
         // If the camera has moved past half of the layer, move it forward

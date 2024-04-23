@@ -1,7 +1,6 @@
 {
   "buildFiles": [
     "E:\\Unity Projects\\Gravity-Guy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
-    "E:\\Unity Projects\\Gravity-Guy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\FramePacing\\CMakeLists.txt",
     "E:\\Unity Projects\\Gravity-Guy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
@@ -24,13 +23,6 @@
       "abi": "arm64-v8a",
       "artifactName": "game",
       "output": "E:\\Unity Projects\\Gravity-Guy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\Debug\\3c3w3i23\\obj\\arm64-v8a\\libgame.so",
-      "runtimeFiles": []
-    },
-    "swappywrapper::@7e25bd1f32ce224db4e9": {
-      "toolchain": "toolchain",
-      "abi": "arm64-v8a",
-      "artifactName": "swappywrapper",
-      "output": "E:\\Unity Projects\\Gravity-Guy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\Debug\\3c3w3i23\\obj\\arm64-v8a\\libswappywrapper.so",
       "runtimeFiles": []
     }
   },

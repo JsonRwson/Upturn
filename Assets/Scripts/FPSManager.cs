@@ -9,6 +9,6 @@ public class FPSManager : MonoBehaviour
     void Start()
     {
         QualitySettings.vSyncCount = 0;
-        Application.targetFrameRate = 120;
+        Application.targetFrameRate = 60;
     }
 }
